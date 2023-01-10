@@ -16,7 +16,7 @@
 <br >
 
 
- ![](assets\images\screenshot.jpeg)
+ ![](./assets/images/screenshot.jpeg)
 
 <br >
 
